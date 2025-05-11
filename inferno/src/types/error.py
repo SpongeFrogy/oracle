@@ -1,0 +1,4 @@
+
+
+class ValidateLoadingError(Exception):
+    pass
