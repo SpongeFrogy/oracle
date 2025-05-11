@@ -1,0 +1,12 @@
+uvicorn==0.29.0  # Исправлено название пакета
+fastapi==0.115.12
+python-dotenv==1.1.0
+sqlalchemy==2.0.40
+psycopg2-binary==2.9.9
+passlib==1.7.4
+python-jose==3.3.0
+cryptography==44.0.3
+pydantic-settings==2.0.3
+pydantic[email]
+python-multipart
+pika==1.3.2
